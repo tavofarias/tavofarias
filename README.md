@@ -6,7 +6,7 @@
   <a href="mailto:fariass.gustavooo@gmail.com">fariass.gustavooo@gmail.com</a>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D300&background=FFFFFF00&vCenter=true&random=false&width=435&lines=%2B7+Year+of+Experience+as+Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D300&background=FFFFFF00&vCenter=true&random=false&width=530&lines=%2B7+Year+of+Experience+as+Frontend+Developer)](https://git.io/typing-svg)
 
 ## Languages and Tools  
 <div>  
